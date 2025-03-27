@@ -13,7 +13,7 @@ A Model Context Protocol (MCP) server that converts LaTeX mathematical expressio
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/latex-mathml-mcp-server.git
+   git clone https://github.com/HappyAny/latex-mathml-mcp-server.git
    cd latex-mathml-mcp-server
    ```
 
