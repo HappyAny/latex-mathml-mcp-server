@@ -118,4 +118,4 @@ This is a Node.js project. Simply clone and install dependencies as shown in the
 
 ## License
 
-Apache 2.0
+MIT
