@@ -1,0 +1,18 @@
+{
+  "name": "latex-mathml-mcp-server",
+  "version": "1.0.0",
+  "description": "latex-mathml-mcp-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^latest",
+    "mathjax-node": "^latest"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "license": "MIT"
+}
